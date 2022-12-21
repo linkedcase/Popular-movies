@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106017100787",
+    "project_id": "movies-ee7bc",
+    "storage_bucket": "movies-ee7bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106017100787:android:b769a415d81d16887e7886",
+        "android_client_info": {
+          "package_name": "ru.abelyh.movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106017100787-u5em3ou97shcirj5isik3v9sn8t0ra5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5rjIwZuPg3hpUmAJkpqsiz_n6u4msIbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106017100787-u5em3ou97shcirj5isik3v9sn8t0ra5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
